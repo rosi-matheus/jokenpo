@@ -28,4 +28,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 >Este projeto foi desenvolvido com ❤️ <br> 
-Se te ajudou, dá ⭐, vai me ajudar também 😉
+Se gostou, dá ⭐, vai me ajudar também 😉
